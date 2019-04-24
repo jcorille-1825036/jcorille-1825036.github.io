@@ -1,0 +1,35 @@
+body{
+	background-color: #f4e9d9;
+}
+
+div{
+	background-color: #f2bcbc;
+	border-radius: 15px;
+}
+
+img{
+	
+}
+
+.text{
+	font-family: "Arial";
+	text-align: center;
+}
+
+#Header{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+#Sentences{
+
+}
+
+#LeftPicture{
+	float: left;
+}
+
+#RightPicture{
+	float: right;
+}
