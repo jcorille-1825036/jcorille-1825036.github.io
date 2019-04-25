@@ -5,31 +5,37 @@ body{
 div{
 	background-color: #f2bcbc;
 	border-radius: 15px;
+	border: solid 10px #f2bcbc;
+	margin-bottom: 25px;
 }
 
 img{
-	
+	height: 400px;
 }
 
 .text{
+	width: 600px;
 	font-family: "Arial";
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #Header{
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 10px;
+	font-size: 60px;
 }
 
 #Sentences{
-
+	font-size: 40px;
 }
 
 #LeftPicture{
 	float: left;
+	width: 600px;
 }
 
 #RightPicture{
 	float: right;
+	width: 565px;
+	
 }
